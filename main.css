@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: light) {
-  @import "./node_modules/themes/prism-ghcolors.min.css";
+  @import "./themes/prism-ghcolors.min.css";
 }
 @media (prefers-color-scheme: dark) {
-  @import "./node_modules/themes/prism-dracula.min.css";
+  @import "./themes/prism-dracula.min.css";
 }

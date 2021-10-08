@@ -4,16 +4,16 @@
 
 ```css
 @media (prefers-color-scheme: light) {
-  @import "https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-ghcolors.min.css";
+  @import "https://hansanghyeon.github.io/prism-themes/themes/prism-ghcolors.min.css";
 }
 @media (prefers-color-scheme: dark) {
-  @import "https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-dracula.min.css";
+  @import "https://hansanghyeon.github.io/prism-themes/themes/prism-dracula.min.css";
 }
 ```
 
 ```css
-@import url('https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-ghcolors.min.css') screen and (prefers-color-scheme: light);
-@import url('https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-dracula.min.css') screen and (prefers-color-scheme: dark);
+@import url('https://hansanghyeon.github.io/prism-themes/themes/prism-ghcolors.min.css') screen and (prefers-color-scheme: light);
+@import url('https://hansanghyeon.github.io/prism-themes/themes/prism-dracula.min.css') screen and (prefers-color-scheme: dark);
 ```
 
 
