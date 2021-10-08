@@ -12,8 +12,8 @@
 ```
 
 ```css
-@import url('[landscape.css](https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-ghcolors.min.css)') screen and (prefers-color-scheme: light);
-@import url('[landscape.css](https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-dracula.min.css)') screen and (prefers-color-scheme: dark);
+@import url('https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-ghcolors.min.css') screen and (prefers-color-scheme: light);
+@import url('https://hansanghyeon.github.io/prism-themes/node_modules/themes/prism-dracula.min.css') screen and (prefers-color-scheme: dark);
 ```
 
 
